@@ -1,0 +1,11 @@
+Los escenarios propuestos están basados en los siguientes casos de uso:
+
+0.	Prueba de humo  
+        --> Duración: 1 min / rampa: 30 sg (ejemplo de escenario)
+
+            k6 run  --summary-time-unit=ms mainCuentaCorrienteDetalleObtenerE1.js
+
+1.	Obtener detalle de cuenta corriente dado un id de cuenta  
+        --> Duración: 7 min / rampa: 3 min (ejemplo de escenario)
+
+            k6 run  --summary-time-unit=ms mainCuentaCorrienteDetalleObtenerE1.js

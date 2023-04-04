@@ -1,4 +1,4 @@
-# k6-tests
+# k6
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.falabella.tech/fif/arquitectura/sandbox/redbee/k6-tests.git
+git remote add origin https://gitlab.falabella.tech/fif/integracion/forthehorde/qa/k6.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.falabella.tech/fif/arquitectura/sandbox/redbee/k6-tests/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.falabella.tech/fif/integracion/forthehorde/qa/k6/-/settings/integrations)
 
 ## Collaborate with your team
 
